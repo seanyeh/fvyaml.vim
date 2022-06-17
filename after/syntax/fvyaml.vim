@@ -73,4 +73,4 @@ hi link yamlBlock	Operator
 hi link yamlString	String
 hi link yamlEscape	Special
 
-hi link yamlFirstValue Function
+hi link yamlFirstValue Special
